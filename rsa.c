@@ -1,10 +1,10 @@
 #include "factor.h"
 
 /**
- * main - main function
+ * maimain function
  *
- * Athor: T Abdrasheed
- * Rern: void
+ *= Thaoban Abdrasheed
+ * Rturn: void
  */
 int main(int argc, char *argv[])
 {

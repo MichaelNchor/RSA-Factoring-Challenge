@@ -8,7 +8,7 @@
 #define _GNU_SOURCE
 
 
-/* size_t getle(char **lptr, size_t *FILE *stream); */
+/* size_t getliar **lineptr,ize_t *n, FILE *stream); */
 int factorize(char *buffer);
 
-#endif /* _TOR_H_ */
+#endif /* _FACR_H_ */

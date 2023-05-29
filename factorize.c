@@ -1,11 +1,11 @@
 #include "factor.h"
 
 /**
- * facrize - The function factorize a number
- * @bfer: poinhe address of the number
+ * factorize - The functfactorize a number
+ * @buffer: pointethe address of the number
  *
- * Author: Thaoban Abdrasheed
- * Rern: int
+ * Aor: Thaoban Abheed
+ * Return: int
  */
 int factorize(char *buffer)
 {

@@ -1,10 +1,10 @@
 #include "factor.h"
 
 /**
- * main funcion
+ * main function
  *
  *
- * Retn: void
+ * Rern: void
  */
 int main(int argc, char *argv[])
 {
